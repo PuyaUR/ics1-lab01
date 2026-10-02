@@ -6,12 +6,12 @@ Write an algorithm for ONE of these, as numbered steps, the way we wrote the pho
 Rules: at least 6 numbered lines; use at least one "if" and one loop ("go back to line N", "repeat" or "while").
 Replace the example below with your own.
 
-1  Set "low" to 1 and "high" to 100
-2  Calculate "guess" as the middle number between "low" and "high" (rounded down)
-3  Ask your friend: "Is your number equal to guess?"
-4  If they say "yes", go to line 9
-5  Ask your friend: "Is your number greater than guess?"
-6  If they say "yes", set "low" to "guess + 1"
-7  If they say "no", set "high" to "guess - 1"
-8  Go back to line 2
-9  Announce "Your secret number is guess!"
+1 Set "low" to 1 and "high" to 100
+2 Calculate "guess" as the middle number between "low" and "high" (rounded down)
+3 Ask your friend: "Is your number equal to guess?"
+4 If they say "yes", go to line 9
+5 Ask your friend: "Is your number greater than guess?"
+6 If they say "yes", set "low" to "guess + 1"
+7 If they say "no", set "high" to "guess - 1"
+8 Go back to line 2
+9 Announce "Your secret number is guess!"
