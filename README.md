@@ -27,12 +27,13 @@ git add -A && git commit -m "Lab 1" && git push    # submit (your last push befo
 
 ## Part A · Warm-up: meow, with a custom block
 
-Meow: PASTE-YOUR-PROJECT-LINK-HERE
-https://scratch.mit.edu/projects/1387303670
+Meow: https://scratch.mit.edu/projects/1387303670
+
 ## Part B · Your own project
 
-Project: PASTE-YOUR-PROJECT-LINK-HERE
-https://scratch.mit.edu/projects/1387432751
+Project: https://scratch.mit.edu/projects/1387432751
+
 One or two sentences on what it does and which custom block, variable, loop, condition and event it uses:
 
-(write here)
+(write here)This project is a time-limited clicking game where the player inputs their name, attempts to click on moving targets within 90 seconds to score points, and wins if their score is greater than 29.
+
